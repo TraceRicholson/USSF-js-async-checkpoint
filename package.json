@@ -1,11 +1,11 @@
 {
-  "name": "ussf-js-async-checkpoint",
+  "name": "poke_type_grabber",
   "version": "1.0.0",
-  "description": "",
+  "description": "gets_poke_type_data",
   "main": "Code.js",
-  "bin": { 
-    "hello": "./bin/index.js"
-} 
+  "bin": {
+    "poke_type_grabber": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/TraceRicholson/USSF-js-async-checkpoint.git"
   },
-  "author": "Trace Richolson",
+  "author": "TraceRicholson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/TraceRicholson/USSF-js-async-checkpoint/issues"
